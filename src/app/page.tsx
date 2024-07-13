@@ -3979,9 +3979,7 @@ export default function Home() {
                     <p className="title_links">
                       {lang === "en" ? en.Contact.Phone : ru.Contact.Phone}
                     </p>
-                    <a href="tel:+998957477777">+998 95 747 77 77</a>
-                    <br />
-                    <a href="tel:+998787777575">+998 78 777 75 75</a>
+                    <a href="tel:+998988800909">+998 98 880 09 09</a>
                   </div>
                   <div>
                     <p className="title_links">
